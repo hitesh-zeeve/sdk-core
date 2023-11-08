@@ -16,7 +16,7 @@ export enum ChainId {
   AVALANCHE = 43114,
   BASE_GOERLI = 84531,
   BASE = 8453,
-  POLYGON_CDK = 2154,
+  POLYGON_CDK = 1010,
 }
 
 export const SUPPORTED_CHAINS = [
